@@ -4,7 +4,7 @@
 
 ### Prep
 
-1. Download MikTex (tested on version 21.2) and Lyx (tested on version 2361-3-x64).
+1. Download MikTex (**tested on version 21.2**) and Lyx (**tested on version 2361-3-x64**).
 2. Place `MacrosHeb.lyx` in a permanent folder (your templates will depend on its location). Copy the path to `MacrosHeb.lyx`.
 3. Open `Course1 Template.Lyx` and:
    - Add your name and ID in lines 155 and 159.
