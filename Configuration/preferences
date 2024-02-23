@@ -10,12 +10,12 @@ Format 24
 
 \path_prefix "C:/Users/Yossi/AppData/Local/Programs/MiKTeX/miktex/bin;$LyXDir/bin;$LyXDir/Python;$LyXDir/Python/Lib;$LyXDir/imagemagick;$LyXDir/ghostscript/bin"
 # The time interval between auto-saves in seconds.
-\autosave 180
+\autosave 120
 \kbmap true
 \kbmap_primary "null"
 \kbmap_secondary "hebrew"
 \user_name "Yossi"
-\user_email ""
+\user_email "yossidoctor98@gmail.com"
 
 #
 # SCREEN & FONTS SECTION ############################
@@ -46,6 +46,7 @@ Format 24
 
 \example_path "C:\Program Files\LyX 2.3\Resources\examples"
 \template_path "C:\Program Files\LyX 2.3\Resources\templates\CustomLyxTemplates"
+\make_backup false
 \save_origin true
 
 #
@@ -62,6 +63,7 @@ Format 24
 # LANGUAGE SUPPORT SECTION ##########################
 #
 
+\spellcheck_notes false
 \visual_cursor true
 \mark_foreign_language false
 

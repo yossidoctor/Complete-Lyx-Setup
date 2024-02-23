@@ -3,7 +3,7 @@
 \begin_document
 \begin_header
 \save_transient_properties true
-\origin "C:/Users/Yossi/Desktop/Complete Lyx Installation/Configuration/"
+\origin C:/Users/Yossi/AppData/Roaming/LyX2.3/templates/
 \textclass heb-article
 \begin_preamble
 \usepackage{culmus}
@@ -43,8 +43,9 @@
 \output_sync 0
 \bibtex_command default
 \index_command default
+\float_placement H
 \paperfontsize 12
-\spacing onehalf
+\spacing double
 \use_hyperref false
 \papersize a4paper
 \use_geometry true
@@ -72,13 +73,13 @@
 \shortcut idx
 \color #008000
 \end_index
-\leftmargin 1cm
-\topmargin 1cm
-\rightmargin 1cm
-\bottommargin 3cm
+\leftmargin 2cm
+\topmargin 2cm
+\rightmargin 2cm
+\bottommargin 2cm
 \headheight 0cm
 \headsep 0cm
-\footskip 2cm
+\footskip 1cm
 \secnumdepth -2
 \tocdepth 3
 \paragraph_separation indent
@@ -90,6 +91,9 @@
 \papercolumns 1
 \papersides 1
 \paperpagestyle default
+\bullet 1 0 14 -1
+\bullet 2 0 9 -1
+\bullet 3 0 6 -1
 \tracking_changes false
 \output_changes false
 \html_math_output 0
@@ -100,53 +104,7 @@
 \begin_body
 
 \begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand include
-filename "D:/Google Drive/University/MacrosHeb.lyx"
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-שאלה
-\family roman
-\series bold
-\shape up
-\size large
-\emph off
-\bar no
-\strikeout off
-\xout off
-\uuline off
-\uwave off
-\noun off
-\color none
- 
-\family default
-\series default
-\shape default
-\size default
-\emph default
-\numeric on
-\bar default
-\strikeout default
-\xout default
-\uuline default
-\uwave default
-\noun default
-\color inherit
-1
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-א
-\series default
-.
- 
 \end_layout
 
 \end_body
